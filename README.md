@@ -13,6 +13,9 @@ Clone repository
 Navigate to the project directory
 
 Install and run:
+
 Using npm
-#npm install
-#npm run dev
+
+npm install
+
+npm run dev
