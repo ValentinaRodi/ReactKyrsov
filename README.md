@@ -20,8 +20,12 @@ npm run dev
 
 # Стэк:
 
-React
+• React
 
+• Function Components React
 
+• Route React
 
 • Axios
+
+• Node.js
